@@ -12,6 +12,13 @@ En este repositorio se agradecen las contribuciones. Puedes ayudar a futuros alu
 - Ejercicios propios
 - Apuntes de clase
 - Libros (siempre que sus licencia lo permita)
+- Enlaces ajenos (Dentro de un archivo .md, a ser posible)
+- Archivos encriptados
+
+### Una nota sobre los enlaces y los archivos encriptados
+Para subir archivos encriptados, debemos de confirmar su contenido. Envía la contrasema a uapuntes@protonmail.com para que podamos verificar su contenido y aprobar la Pull Request.
+
+Respecto a los enlaces ajenos, nos desentendemos totalmente de su contenido, siempre y cuando estén relacionados con la asignatura.
 
 ## Que NO contribuir
 Con el fin de preservar la vida útil de este repositorio lo máximo posible, hay algunos materiales que **no vamos a añadir**. Estos materiales incluyen, pero no están limitados, a:
@@ -31,5 +38,8 @@ Hay poco que se pueda hacer en este caso. Intenta que alguno de tus compañeros 
 
 ## Quiero ayudar de otras formas
 Aqui somos todos estudiantes, y yo entiendo que no me va a caer ni un duro. Pero si quieres aportar algo económicamente, aqui va mi dirección de bitcoin
+
+## Quiero denunciar una violación de mis derechos
+¿Eres profesor y ver un material tuyo? ¿Se nos ha colado un PDF de tu academia? Por favor, deja una issue para que podamos eliminarlo
 
 BTC: 3EPbATswWhkVU2Y9CM3AuN25SXcXjMj7zh
