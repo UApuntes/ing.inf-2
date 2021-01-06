@@ -37,9 +37,9 @@ Con el fin de preservar la vida útil de este repositorio lo máximo posible, ha
 Hay poco que se pueda hacer en este caso. Intenta que alguno de tus compañeros te ayude, adaptándolo el o entre los dos.
 
 ## Quiero ayudar de otras formas
-Aqui somos todos estudiantes, y yo entiendo que no me va a caer ni un duro. Pero si quieres aportar algo económicamente, aqui va mi dirección de bitcoin
+Aqui somos todos estudiantes, y yo entiendo que no nos va a caer ni un duro. Pero si quieres aportar algo económicamente, aqui va nuestra dirección de bitcoin
+
+BTC: 3EPbATswWhkVU2Y9CM3AuN25SXcXjMj7zh
 
 ## Quiero denunciar una violación de mis derechos
 ¿Eres profesor y ver un material tuyo? ¿Se nos ha colado un PDF de tu academia? Por favor, deja una issue para que podamos eliminarlo
-
-BTC: 3EPbATswWhkVU2Y9CM3AuN25SXcXjMj7zh
