@@ -1,12 +1,12 @@
 # 2º de Ingeniería Informática
 Repositorio con apuntes del segundo curso de Ingeniería Informática de la Universidad de Alicante
 
-## Servidor Seguro´
+## Servidor Seguro
 En vista de la poca disponibilidad de GitMask, hemos decidido abrir un servidor seguro, blindado a través de la red Tor. La disponiblidad va a fluctuar, la velocidad no va a ser óptima, y tenemos un ancho de banda máximo al mes. Pero es lo mejor que podemos hacer por ahora, para garantizar la libertad de nuestros datos.
 
 http://mifxnk2yufkcaxkw.onion/
 
-Si queréis acceder alservidor seguro, tendréis que utilizar un navegador como Tor o Brave, o herramientas más especializadas. Rogamos que os descarguéis los datos por asignaturas mediante el link incluído con el mismo nombre de la carpeta. 
+Si queréis acceder al servidor seguro, tendréis que utilizar un navegador como Tor o Brave, o herramientas más especializadas. Rogamos que os descarguéis los datos por asignaturas mediante el link incluído con el mismo nombre de la carpeta. 
 
 ## Como contribuir
 Este repositorio se centra en la privacidad y el anonimato. No se aceptará ninguna Pull Request no anonimizada
